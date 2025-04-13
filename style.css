@@ -726,9 +726,6 @@ nav ul {
     .testimonials-section .slider-wrapper{
         margin: 0 0 30px;
     }
-    .testimonials-section .swiper-slide-button{
-        display: none;
-    }
     .footer-section .section-content{
         flex-direction: column;
         gap: 20px;
